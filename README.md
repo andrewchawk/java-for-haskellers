@@ -1,2 +1,2 @@
 # java-for-haskellers
-"Java for Haskellers" is -- well, will be -- a small book which describes Java in a way which is -- hopefully -- appealing to Haskellers.
+"Java for Haskellers" is -- well, will be -- a small book which describes certain aspects of Java in a way which is -- hopefully -- appealing to Haskellers.  "Java for Haskellers" is *not* a description of Java as a whole; I think that the Java Language Standard is a pretty good description.  "Java For Haskellers" is *also* *not* a Java tutorial; I dislike these sorts of things, and plenty of Java tutorials already exist.
